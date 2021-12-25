@@ -1,0 +1,10 @@
+numpy
+scipy
+pytorch
+pytorch
+torchvision
+# geomloss
+matplotlib
+torch
+numpy jupyter notebook
+tensorboard
